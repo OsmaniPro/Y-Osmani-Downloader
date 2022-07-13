@@ -19,7 +19,7 @@
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 * [Rio](github.com/rioprojectx)
 # Host
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rioprojectx/Youtube-Downloader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OsmaniPro/Y-Osmani-Downloader/tree/master)
 
 ## Join
 * [Channel](t.me/rioprojects)
